@@ -1,0 +1,107 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/Matvey182/gruzily.git" resolutions="1x" timestamp="1536957013946">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-a.css" crc="137519309" ref="акции:цены:index:услуги:контакты"/>
+    <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="акции:цены:index:услуги:контакты"/>
+    <file name="_____.css" crc="353246311" ref="акции"/>
+    <file name="____.css" crc="448132096" ref="цены"/>
+    <file name="index.css" crc="534693654" ref="index"/>
+    <file name="nomq_index.css" crc="4026180643" ref="index"/>
+    <file name="iefonts_index.css" crc="109750319" ref="index"/>
+    <file name="______.css" crc="116861533" ref="услуги"/>
+    <file name="iefonts_______.css" crc="199763773" ref="услуги"/>
+    <file name="________.css" crc="404694190" ref="контакты"/>
+    <file name="iefonts_________.css" crc="4256952745" ref="контакты"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты:index:контакты:акции:цены:услуги"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты:index:контакты:акции:цены:услуги"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты:index:контакты:акции:цены:услуги"/>
+    <file name="museconfig.js" crc="168988563" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты:index:контакты:акции:цены:услуги"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты:index:контакты:акции:цены:услуги"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты"/>
+    <file name="touchswipe.js" crc="404375771" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты:index:контакты:акции:цены:услуги"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты:index:контакты:акции:цены:услуги"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="фон429x213.jpg" crc="509377929" seo="true" ref="phone>index"/>
+    <file name="тень к тексту343x102.png" crc="231356488" seo="true" ref="phone>index"/>
+    <file name="трубка.png" crc="4201658576" seo="true" ref="phone>index:index"/>
+    <file name="гамбургер.png" crc="297766488" ref="phone>index"/>
+    <file name="крест.png" crc="3768911977" ref="phone>index"/>
+    <file name="453543543.png" crc="347388088" seo="true" ref="phone>index:index"/>
+    <file name="543534543.png" crc="4100728034" seo="true" ref="phone>index:index"/>
+    <file name="скидки.png" crc="4146508437" seo="true" ref="phone>index:index"/>
+    <file name="3131.png" crc="491878289" seo="true" ref="phone>index:index"/>
+    <file name="без имени-3.png" crc="4128785462" seo="true" ref="phone>index:index"/>
+    <file name="без имени-4.png" crc="4163441314" seo="true" ref="phone>index:index"/>
+    <file name="insurance.png" crc="51530131" seo="true" ref="phone>index:index"/>
+    <file name="подвал.png" crc="525181188" seo="true" ref="phone>index:phone>услуги:phone>цены:phone>акции:phone>контакты"/>
+    <file name="2.png" crc="4181111279" seo="true" ref="phone>услуги"/>
+    <file name="грузчик170x170.png" crc="397654119" seo="true" ref="phone>услуги"/>
+    <file name="домашний переезд170x170.png" crc="40645692" seo="true" ref="phone>услуги"/>
+    <file name="офисный перезд170x170.png" crc="3805592695" seo="true" ref="phone>услуги"/>
+    <file name="альпинизм170x170.png" crc="418151559" seo="true" ref="phone>услуги"/>
+    <file name="сборка170x170.png" crc="3918273688" seo="true" ref="phone>услуги"/>
+    <file name="вывоз мусора170x170.png" crc="4216918430" seo="true" ref="phone>услуги"/>
+    <file name="1.png" crc="4080955235" seo="true" ref="phone>цены"/>
+    <file name="4.png" crc="241155000" seo="true" ref="phone>акции"/>
+    <file name="5-358x179.jpg" crc="523761895" seo="true" ref="phone>акции"/>
+    <file name="скидка 10-358x180.jpg" crc="443194343" seo="true" ref="phone>акции"/>
+    <file name="15- скидка358x179.jpg" crc="426552422" seo="true" ref="phone>акции"/>
+    <file name="3.png" crc="33731177" seo="true" ref="phone>контакты"/>
+    <file name="фон.jpg" crc="320247124" seo="true" ref="index"/>
+    <file name="линия.png" crc="513014909" seo="true" ref="index:контакты:акции:цены:услуги"/>
+    <file name="лого.png" crc="419901369" seo="true" ref="index:контакты:акции:цены:услуги"/>
+    <file name="тень к тексту.png" crc="234290025" seo="true" ref="index"/>
+    <file name="worker.png" crc="4015952435" seo="true" ref="index"/>
+    <file name="без имени-12121.png" crc="478887624" seo="true" ref="index:контакты:акции:цены:услуги"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="42.png" crc="3951356866" seo="true" ref="контакты"/>
+    <file name="32.png" crc="398018756" seo="true" ref="акции"/>
+    <file name="5-.jpg" crc="436427284" seo="true" ref="акции"/>
+    <file name="скидка 10-.jpg" crc="3986889042" seo="true" ref="акции"/>
+    <file name="15- скидка.jpg" crc="3882988078" seo="true" ref="акции"/>
+    <file name="12.png" crc="3888149945" seo="true" ref="цены"/>
+    <file name="фон цены.jpg" crc="399726885" seo="true" ref="цены"/>
+    <file name="фон цены 2.jpg" crc="436771380" seo="true" ref="цены"/>
+    <file name="фон цены 3.jpg" crc="214319404" seo="true" ref="цены"/>
+    <file name="фон цены 4.jpg" crc="124376032" seo="true" ref="цены"/>
+    <file name="22.png" crc="487672178" seo="true" ref="услуги"/>
+    <file name="грузчик.png" crc="3956496499" seo="true" ref="услуги"/>
+    <file name="домашний переезд.png" crc="4005884991" seo="true" ref="услуги"/>
+    <file name="офисный перезд.png" crc="3898189051" seo="true" ref="услуги"/>
+    <file name="альпинизм.png" crc="4037875750" seo="true" ref="услуги"/>
+    <file name="сборка.png" crc="3785451850" seo="true" ref="услуги"/>
+    <file name="вывоз мусора.png" crc="4022049005" seo="true" ref="услуги"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="26483530" ref="phone>услуги:phone>контакты:phone>index:phone>акции:phone>цены"/>
+      <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="phone>услуги:phone>контакты:phone>index:phone>акции:phone>цены"/>
+      <file name="______.css" crc="4166786753" ref="phone>услуги"/>
+      <file name="iefonts_______.css" crc="480894266" ref="phone>услуги"/>
+      <file name="________.css" crc="4227903989" ref="phone>контакты"/>
+      <file name="nomq_________.css" crc="3824530138" ref="phone>контакты"/>
+      <file name="index.css" crc="61312859" ref="phone>index"/>
+      <file name="_____.css" crc="449187869" ref="phone>акции"/>
+      <file name="____.css" crc="487934479" ref="phone>цены"/>
+    </folder>
+    <file name="index.html" crc="139662268" seo="true" mt="1536955314980" redirect="true"/>
+    <file name="услуги.html" crc="4241301337" seo="true" mt="1536955158204" redirect="true"/>
+    <file name="цены.html" crc="514475735" seo="true" mt="1536955158204" redirect="true"/>
+    <file name="акции.html" crc="267340597" seo="true" mt="1536955158204" redirect="true"/>
+    <file name="контакты.html" crc="3877782972" seo="true" mt="1536955158204" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="291353730" seo="true" mt="1536955158203" redirect="true"/>
+  <file name="контакты.html" crc="3981637842" seo="true" mt="1536955158203" redirect="true"/>
+  <file name="акции.html" crc="306887428" seo="true" mt="1536955158203" redirect="true"/>
+  <file name="цены.html" crc="3852762744" seo="true" mt="1536955158203" redirect="true"/>
+  <file name="услуги.html" crc="61397577" seo="true" mt="1536955158203" redirect="true"/>
+</manifest>
